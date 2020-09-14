@@ -1,0 +1,4 @@
+Hello !
+Welcome to File_Handling in python.
+Now we will strat coding.
+Happy Coding!
